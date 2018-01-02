@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Calculating the inverse of a matrix can be time consuming
+## We create here an object which can cache the matrix inverse so that we do ot have to compute it everytime we use it.
 
 ## This function creates a special Matrix which really is a list of function to
 ## set the value of the matrix
